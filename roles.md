@@ -32,9 +32,9 @@ For these reasons, it feels relevant to list the collection roles that are intro
 
 | Role  | Definition | Compact Collection? | Required? | Reference |
 | ----- | ---------- | ------------------- | --------- | --------- |
-| `navigation`  | An ordered list of links meant to browse a catalog in depth.  | Yes  | No  | [OPDS 2.0](https://drafts.opds.io/opds-2.0#11-navigation) |
-| `publications`  | Contains a list of publications.  | No  | No  | [OPDS 2.0](https://drafts.opds.io/opds-2.0#12-publications) |
-| `images`  | Visual representations for a publication.  | Yes  | No  | [OPDS 2.0](https://drafts.opds.io/opds-2.0#13-images) |
-| `facets`   | Links meant to obtain a sub-set of the current list of publications, or the same list in a different order.  | No  | No  | [OPDS 2.0](https://drafts.opds.io/opds-2.0#14-facets) |
-| `groups`   | Structural element in a catalog meant to contain `navigation` or `publications` collections.  | No  | No  | [OPDS 2.0](https://drafts.opds.io/opds-2.0#15-groups) |
+| `navigation`  | An ordered list of links meant to browse a catalog in depth.  | Yes  | No  | [OPDS 2.0](https://specs.opds.io/opds-2.0#11-navigation) |
+| `publications`  | Contains a list of publications.  | No  | No  | [OPDS 2.0](https://specs.opds.io/opds-2.0#12-publications) |
+| `images`  | Visual representations for a publication.  | Yes  | No  | [OPDS 2.0](https://specs.opds.io/opds-2.0#13-images) |
+| `facets`   | Links meant to obtain a sub-set of the current list of publications, or the same list in a different order.  | No  | No  | [OPDS 2.0](https://specs.opds.io/opds-2.0#14-facets) |
+| `groups`   | Structural element in a catalog meant to contain `navigation` or `publications` collections.  | No  | No  | [OPDS 2.0](https://specs.opds.io/opds-2.0#15-groups) |
 
