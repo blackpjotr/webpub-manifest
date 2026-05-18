@@ -54,6 +54,6 @@ For this reason, it feels relevant to list the properties introduced by OPDS as 
 
 | Key   | Semantics | Reference |
 | ----- | --------- | --------- |
-| `indirectAcquisition`  | Provides the expected download format for a publication, after an acquisition through an intermediate resource. | [OPDS 2.0](https://drafts.opds.io/opds-2.0#43-acquisition-links) | 
-| `numberOfItems`  | Hint about the number of items that are expected to be returned by the linked resource.  | [OPDS 2.0](https://drafts.opds.io/opds-2.0#14-facets) | 
-| `price`  | Provides the acquisition price in a given currency.  | [OPDS 2.0](https://drafts.opds.io/opds-2.0#43-acquisition-links) | 
+| `indirectAcquisition`  | Provides the expected download format for a publication, after an acquisition through an intermediate resource. | [OPDS 2.0](https://specs.opds.io/opds-2.0#43-acquisition-links) | 
+| `numberOfItems`  | Hint about the number of items that are expected to be returned by the linked resource.  | [OPDS 2.0](https://specs.opds.io/opds-2.0#14-facets) | 
+| `price`  | Provides the acquisition price in a given currency.  | [OPDS 2.0](https://specs.opds.io/opds-2.0#43-acquisition-links) | 

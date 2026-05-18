@@ -2,7 +2,7 @@
 
 The Readium Web Publication Manifest is a JSON-based document meant to represent and distribute publications over HTTPS.
 
-It is the primary exchange format used in the [Readium Architecture](https://readium.org/architecture) and serves as the main building block for [OPDS 2.0](https://drafts.opds.io/opds-2.0). 
+It is the primary exchange format used in the [Readium Architecture](https://readium.org/architecture) and serves as the main building block for [OPDS 2.0](https://specs.opds.io/opds-2.0). 
 
 **Editors:**
 
